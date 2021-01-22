@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skipper113/testhub/static/css/main.910aa548.chunk.css",
+    "main.js": "/skipper113/testhub/static/js/main.816084df.chunk.js",
+    "main.js.map": "/skipper113/testhub/static/js/main.816084df.chunk.js.map",
+    "runtime-main.js": "/skipper113/testhub/static/js/runtime-main.990050c7.js",
+    "runtime-main.js.map": "/skipper113/testhub/static/js/runtime-main.990050c7.js.map",
+    "static/js/2.8a0b4a8b.chunk.js": "/skipper113/testhub/static/js/2.8a0b4a8b.chunk.js",
+    "static/js/2.8a0b4a8b.chunk.js.map": "/skipper113/testhub/static/js/2.8a0b4a8b.chunk.js.map",
+    "index.html": "/skipper113/testhub/index.html",
+    "precache-manifest.024a1d28e08948f95225becf3e3cabac.js": "/skipper113/testhub/precache-manifest.024a1d28e08948f95225becf3e3cabac.js",
+    "service-worker.js": "/skipper113/testhub/service-worker.js",
+    "static/css/main.910aa548.chunk.css.map": "/skipper113/testhub/static/css/main.910aa548.chunk.css.map",
+    "static/js/2.8a0b4a8b.chunk.js.LICENSE.txt": "/skipper113/testhub/static/js/2.8a0b4a8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.990050c7.js",
+    "static/js/2.8a0b4a8b.chunk.js",
+    "static/css/main.910aa548.chunk.css",
+    "static/js/main.816084df.chunk.js"
+  ]
+}
